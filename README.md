@@ -15,8 +15,6 @@ This project implements a spam classification system for SMS messages using mach
 
 - `sms_spam.csv`: Dataset used for training and testing the model.
 - `Sentiment-Analysis-Project-on-SMSDataset-in ML.pynb`: notebook containing the complete code for data preprocessing, vectorization, model training, and evaluation.
-- `SentimentalSMS_model`: Saved Bernoulli Naive Bayes model.
-- `vectorizer1`: Saved Count Vectorizer used with the Bernoulli Naive Bayes model.
 
 ## Requirements
 
